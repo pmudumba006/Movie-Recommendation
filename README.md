@@ -51,11 +51,11 @@ The system leverages three core techniques to provide personalized movie suggest
 git clone https://github.com/your-username/Movie-Recommendation.git
 cd Movie-Recommendation
 ```
-
+**Install Requirements**:
 ```bash
 pip install -r requirements.txt
 ```
-
+**Run the Notebook**:
 ```bash
 jupyter notebook Movie_Recommendation.ipynb
 ```
