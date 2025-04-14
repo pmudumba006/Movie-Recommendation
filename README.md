@@ -2,7 +2,7 @@
 
 # 🎬 Movie Recommendation System
 
-This repository contains the implementation of a movie recommendation engine built for the **ITCS 6162 - Data Mining** course at UNC Charlotte.
+This repository contains the implementation of a movie recommendation engine.
 
 The system leverages three core techniques to provide personalized movie suggestions:
 - ✅ User-Based Collaborative Filtering
